@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "js-search": "^2.0.1",
-    "query-string": "^8.1.0",
+    "query-string": "^8.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-highlight-words": "^0.20.0",
