@@ -15,4 +15,4 @@ werkzeug==2.0.1
 # Removed serverless-wsgi==1.7.6
 geopy==2.2.0
 #Added
-gunicorn==20.1.0
+gunicorn==22.0.0
