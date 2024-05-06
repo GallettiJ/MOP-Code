@@ -11,7 +11,7 @@ scipy==1.7.1
 seaborn==0.11.2
 #Shapely==1.7.1
 sodapy==2.1.0
-werkzeug==2.0.1
+werkzeug==3.0.3
 # Removed serverless-wsgi==1.7.6
 geopy==2.2.0
 #Added
