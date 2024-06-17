@@ -16,3 +16,6 @@ werkzeug==2.0.1
 geopy==2.2.0
 #Added
 gunicorn==20.1.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
