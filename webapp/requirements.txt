@@ -6,7 +6,7 @@ seaborn
 geopy
 autopep8
 ipykernel==6.5.0
-jupyterlab==3.2.3
+jupyterlab==3.6.8
 pip
 sodapy==2.1.0
 flask-talisman==0.8.1
